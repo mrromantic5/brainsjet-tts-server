@@ -19,19 +19,21 @@ app.add_middleware(
 
 # ── Voice map (friendly name → Edge TTS voice ID) ──
 VOICES = {
-    "lisa":   "en-US-AriaNeural",
-    "jane":   "en-US-JaneNeural",
-    "jenny":  "en-US-JennyNeural",
-    "guy":    "en-US-GuyNeural",
-    "tony":   "en-US-TonyNeural",
-    "sara":   "en-US-SaraNeural",
-    "nancy":  "en-US-NancyNeural",
-    "amber":  "en-US-AmberNeural",
-    "sonia":  "en-GB-SoniaNeural",
-    "ryan":   "en-GB-RyanNeural",
-    "libby":  "en-GB-LibbyNeural",
-    "natasha":"en-AU-NatashaNeural",
-    "william":"en-AU-WilliamNeural",
+    "lisa":    "en-US-AriaNeural",
+    "jenny":   "en-US-JennyNeural",
+    "michelle":"en-US-MichelleNeural",
+    "monica":  "en-US-MonicaNeural",
+    "elizabeth":"en-US-ElizabethNeural",
+    "ana":     "en-US-AnaNeural",
+    "guy":     "en-US-GuyNeural",
+    "davis":   "en-US-DavisNeural",
+    "jason":   "en-US-JasonNeural",
+    "roger":   "en-US-RogerNeural",
+    "sonia":   "en-GB-SoniaNeural",
+    "libby":   "en-GB-LibbyNeural",
+    "ryan":    "en-GB-RyanNeural",
+    "natasha": "en-AU-NatashaNeural",
+    "william": "en-AU-WilliamNeural",
 }
 
 
